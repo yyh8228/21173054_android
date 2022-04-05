@@ -18,7 +18,7 @@
 # 5주차 (2022-04-05)
 - 이미지 바꾸기 버튼
 
-<img width="400" height="600" src="./pic/5주차_activity_main.png"></img>
-<img width="400" height="600" src="./pic/5주차_Mainactivity.png"></img>
+<img width="600" height="700" src="./pic/5주차_activity_main.png"></img>
+<img width="600" height="700" src="./pic/5주차_Mainactivity.png"></img>
 <img width="300" height="700" src="./pic/5주차_결과1.png"></img>
 <img width="300" height="700" src="./pic/5주차_결과2.png"></img>
