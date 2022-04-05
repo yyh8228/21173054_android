@@ -20,5 +20,5 @@
 
 <img width="600" height="700" src="./pic/5주차_activity_main.png"></img>
 <img width="600" height="700" src="./pic/5주차_Mainactivity.png"></img>
-<img width="300" height="700" src="./pic/5주차_결과1.png"></img>
-<img width="300" height="700" src="./pic/5주차_결과2.png"></img>
+<img width="400" height="700" src="./pic/5주차_결과1.png"></img>
+<img width="400" height="700" src="./pic/5주차_결과2.png"></img>
