@@ -41,4 +41,15 @@
 
 
 
+# 9주차 (2022-05-03)
+- SMS 입력화면을 만들고 글자 수 표시하기 (Byte)
+\
+<img width="800" height="700" src="./pic/9주차_activity_main.png"></img>
+<img width="800" height="700" src="./pic/9주차_activity_main1.png"></img>
+<img width="800" height="250" src="./pic/9주차_activity_main2.png"></img>
+<img width="800" height="700" src="./pic/9주차_Mainactivity.png"></img>
+<img width="800" height="700" src="./pic/9주차_Mainactivity2.png"></img>
+<img width="500" height="700" src="./pic/9주차_결과1.png"></img>
+
+
 
