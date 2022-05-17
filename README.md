@@ -61,7 +61,19 @@
 <img width="800" height="700" src="./pic/10주차_Mainactivity.png"></img>
 <img width="800" height="600" src="./pic/10주차_Menuactivity.png"></img>
 
-<img width="500" height="800" src="./pic/10주차_결과1.png"></img>
-<img width="500" height="800" src="./pic/10주차_결과2.png"></img>
-<img width="500" height="800" src="./pic/10주차_결과3.png"></img>
-<img width="500" height="800" src="./pic/10주차_결과4.png"></img>
+<img width="350" height="600" src="./pic/10주차_결과1.png"></img>
+<img width="350" height="600" src="./pic/10주차_결과2.png"></img>
+<img width="350" height="600" src="./pic/10주차_결과3.png"></img>
+<img width="350" height="600" src="./pic/10주차_결과4.png"></img>
+
+
+
+
+# 11주차 (2022-05-17)
+- 웹으로 요청하기
+\
+<img width="800" height="700" src="./pic/11주차_activity_main.png"></img>
+<img width="800" height="700" src="./pic/11주차_Mainactivity.png"></img>
+<img width="800" height="700" src="./pic/11주차_Mainactivity2.png"></img>
+
+<img width="350" height="600" src="./pic/11주차_결과1.png"></img>
